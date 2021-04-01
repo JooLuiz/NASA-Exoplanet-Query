@@ -24,3 +24,4 @@
 - [ ] O usuário pode clicar no símbolo de seção para classificar as linhas no painel de resultados em ordem ascendente sobre os valores dessa coluna.
 - [ ]  O usuário pode clicar no símbolo de baixo para classificar as linhas no painel de resultados em ordem descendente sobre os valores da coluna.
 
+aaaa
